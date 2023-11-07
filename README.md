@@ -1,2 +1,2 @@
 # Java
-Java tasks from University
+Java tasks from Tecnical University of Sofia
